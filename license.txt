@@ -1,0 +1,11 @@
+Model Information:
+* title:	Snowed building wall in Dumbo, Brooklyn
+* source:	https://sketchfab.com/3d-models/snowed-building-wall-in-dumbo-brooklyn-3fc15e985b8d463a89e1cc89d85cf658
+* author:	Guillermo (https://sketchfab.com/guillermosainz)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Snowed building wall in Dumbo, Brooklyn" (https://sketchfab.com/3d-models/snowed-building-wall-in-dumbo-brooklyn-3fc15e985b8d463a89e1cc89d85cf658) by Guillermo (https://sketchfab.com/guillermosainz) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
